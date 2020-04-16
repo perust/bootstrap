@@ -1,3 +1,6 @@
+html {
+  scroll-behavior: smooth;
+}
 #site {
 	padding-left: 10px;
 }
